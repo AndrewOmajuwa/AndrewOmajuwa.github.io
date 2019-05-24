@@ -1,0 +1,46 @@
+html {
+    font-size: 20px; 
+    font-family: 'Macondo Swash Caps', cursive; 
+    background-color: gray
+}
+  h1 {
+    font-size: 80px;
+    color: rgb(1, 1, 14);
+    margin: 0;
+    padding: 10px;
+    text-align: center;
+  }
+  p{
+    font-size: 20px;
+    color: rgb(5, 82, 52)
+  }
+
+  h3{
+    color: brown;
+    text-align: center;
+  }
+
+  h2{
+    color: darkblue;
+    text-align: center;
+  }
+body{
+  width: 800px;
+  margin: 0 auto;
+  background-color:  gray;
+  padding: 0 20px 20px 20px;
+  border: 10px solid black;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: 
+
+
+}
+img{
+  display: block;
+  margin: 0 auto;
+  width: 600px;
+  height: 600px;
+  border-radius: 50%
+  
+}
